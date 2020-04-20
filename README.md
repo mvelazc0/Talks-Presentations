@@ -41,6 +41,16 @@
 - Slides: https://www.slideshare.net/mvelazco/derbycon-2017
 - Code: https://github.com/mvelazc0/Oriana
 
-#### PeruHack 2014 - Post Explotacion en entornows Windows
+#### PeruHack 2014 - Post Explotacion en entornos Windows
 
 - Slides: https://www.slideshare.net/mvelazco/peruhack-2014-post-explotacion-en-entornos-windows
+
+#### LimaHack 2010 - Breaking Tux: Creando exploits para GNU/Linux
+
+- Slides: https://www.slideshare.net/mvelazco/limahack-2010-creando-exploits-para-gnulinux
+
+#### LimaHack 2009 - SSL no esta roto... o si ?
+
+- Slides: https://www.slideshare.net/mvelazco/limahack-2009-ssl-no-esta-roto-o-si
+
+
