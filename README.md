@@ -26,3 +26,7 @@
 - Video: https://www.youtube.com/watch?v=8JFP1wj37Vk&feature=emb_logo
 - Slides: https://www.slideshare.net/mvelazco/bsides-baltimore-2019
 - Code: https://github.com/mvelazc0/PurpleSpray
+
+### BSides Long Island 2019 - Threat Hunting: Stalking attackers in your network
+
+- Slides: https://www.slideshare.net/mvelazco/bsides-long-island-2019
