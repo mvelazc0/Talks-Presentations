@@ -43,6 +43,10 @@ Resource links (video, slides, code) for my latest conference talks/presentation
 - Slides: https://www.slideshare.net/mvelazco/derbycon-2017
 - Code: https://github.com/mvelazc0/Oriana
 
+#### PeruHack 2015 - Cyberespionaje de Naciones
+
+- Slides: https://www.slideshare.net/mvelazco/peruhack-2015/
+
 #### PeruHack 2014 - Post Explotacion en entornos Windows
 
 - Slides: https://www.slideshare.net/mvelazco/peruhack-2014-post-explotacion-en-entornos-windows
