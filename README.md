@@ -51,6 +51,10 @@ Resource links (video, slides, code) for my latest conference talks/presentation
 
 - Slides: https://www.slideshare.net/mvelazco/peruhack-2014-post-explotacion-en-entornos-windows
 
+#### LimaHack 2011 - Stuxnet: El arma del futuro
+
+- Slides: https://www.slideshare.net/mvelazco/limahack-2011/
+
 #### LimaHack 2010 - Breaking Tux: Creando exploits para GNU/Linux
 
 - Slides: https://www.slideshare.net/mvelazco/limahack-2010-creando-exploits-para-gnulinux
