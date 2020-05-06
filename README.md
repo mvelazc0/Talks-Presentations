@@ -1,6 +1,6 @@
 # Talks and Presentations
 
-Resource links (video, slides, code) for my latest conference talks/presentations:
+Resource links (video, slides & code) for my conference talks/presentations:
 
 #### BSides Latin America 2019 - Blue Team: Cazando y Detectando Amenazas
 
