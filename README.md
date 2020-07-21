@@ -37,6 +37,10 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 - Slides: https://www.slideshare.net/mvelazco/sans-threat-hunting-summit-2019
 
+#### Defcon 26 (2018) - Lateral Movement 101
+
+- Slides: https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20workshops/DEF%20CON%2026%20-%20Workshop-Walter-Cuestas-and-Mauricio-Velazco-Lateral-Movement-101-2018-Update.pdf
+
 #### Derbycon 7.0 (2017) - Hunting Lateral Movement for Fun and Profit 
 
 - Video: https://www.youtube.com/watch?v=hVTkkkM9XDg
