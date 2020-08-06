@@ -4,6 +4,7 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 #### BlackHat 2020 Arsenal - PurpleSharp: Adversasry Simulation for the Blue Team
 
+- Video: https://www.youtube.com/watch?v=yaeNwdElYaQ
 - Slides: https://www.slideshare.net/mvelazco/blackhat-2020-arsenal
 
 #### BSides Latin America 2019 - Blue Team: Cazando y Detectando Amenazas
