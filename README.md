@@ -7,6 +7,11 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 - Video: https://www.youtube.com/watch?v=yaeNwdElYaQ
 - Slides: https://www.slideshare.net/mvelazco/blackhat-2020-arsenal
 
+#### Blue Team Village at DEF CON 28 - Purple On My Mind: Cost Effective Automated Adversary Simulation
+
+- Video: https://www.twitch.tv/videos/703727299?t=0h30m48s
+- Slides: https://www.slideshare.net/mvelazco/purple-on-my-mind-cost-effective-automated-adversary-simulation-olaf-hartong-mauricio-velazco
+
 #### BSides Latin America 2019 - Blue Team: Cazando y Detectando Amenazas
 
 - Slides: https://www.slideshare.net/mvelazco/bsides-latam-2019
