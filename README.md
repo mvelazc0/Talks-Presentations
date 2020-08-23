@@ -9,7 +9,7 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 #### Blue Team Village at DEF CON 28 - Purple On My Mind: Cost Effective Automated Adversary Simulation
 
-- Video: https://www.twitch.tv/videos/703727299?t=0h30m48s
+- Video: https://www.youtube.com/watch?v=XUxMj-eR0A0&feature=youtu.be
 - Slides: https://www.slideshare.net/mvelazco/purple-on-my-mind-cost-effective-automated-adversary-simulation-olaf-hartong-mauricio-velazco
 
 #### BSides Latin America 2019 - Blue Team: Cazando y Detectando Amenazas
