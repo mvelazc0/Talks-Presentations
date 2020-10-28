@@ -2,6 +2,10 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops
 
+#### Red Canary Atomic Friday Sept 2020 : Assessing detection coverage via adversary simulation
+
+- Video: https://www.youtube.com/watch?v=HHy00gGFZpI
+
 #### BlackHat 2020 Arsenal - PurpleSharp: Adversasry Simulation for the Blue Team
 
 - Video: https://www.youtube.com/watch?v=yaeNwdElYaQ
