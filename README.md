@@ -76,6 +76,7 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 #### LimaHack 2010 - Breaking Tux: Creando exploits para GNU/Linux
 
 - Slides: https://www.slideshare.net/mvelazco/limahack-2010-creando-exploits-para-gnulinux
+- Video: [Part 1](https://www.youtube.com/watch?v=pOZfcM4iN5k), [Part2](https://www.youtube.com/watch?v=4SBEsXtXOnQ), [Part3](https://www.youtube.com/watch?v=4SBEsXtXOnQ), [Part4](https://www.youtube.com/watch?v=sWhHz7JeyWU)
 
 #### LimaHack 2009 - SSL no esta roto... o si ?
 
