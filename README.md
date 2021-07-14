@@ -4,8 +4,9 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 #### SANS Purple Team Summit 2021 : Active Directory Purple Team Playbooks
 
+- Video: https://www.youtube.com/watch?v=9UpPo20c1w8
 - Slides: https://www.slideshare.net/mvelazco/purple-team-summit-2021/
-- Video: TBD
+
 
 #### Red Canary Atomic Friday Sept 2020 : Assessing detection coverage via adversary simulation
 
