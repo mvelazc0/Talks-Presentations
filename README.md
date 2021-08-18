@@ -2,6 +2,11 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops
 
+#### Security Weekly August 2021 Interview : Automated Adversary Simulation
+
+- Video: https://www.youtube.com/watch?v=jCWQK2NPffA
+- Blog: https://securityweekly.com/shows/purplesharp-automated-adversary-simulation-mauricio-velazco-bh21-2/
+
 #### SANS Purple Team Summit 2021 : Active Directory Purple Team Playbooks
 
 - Video: https://www.youtube.com/watch?v=9UpPo20c1w8
