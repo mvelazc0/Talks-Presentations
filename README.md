@@ -2,6 +2,11 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops
 
+#### Defcon 29 Adversary Village : PurpleSharp - Automated Adversary Simulation
+
+- Video: https://www.youtube.com/watch?v=yi1epKf0lcM
+- Slides: https://www.slideshare.net/mvelazco/defcon-29-adversary-village/
+
 #### Security Weekly August 2021 Interview : Automated Adversary Simulation
 
 - Video: https://www.youtube.com/watch?v=jCWQK2NPffA
