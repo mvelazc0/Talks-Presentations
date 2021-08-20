@@ -2,6 +2,11 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops
 
+#### BlackHat Arsenal 2021 : PurpleSharp - Active Directory Attack Simulations
+
+- Video: https://www.youtube.com/watch?v=jvpVgJQPoXw
+- Slides: https://www.slideshare.net/mvelazco/blackhat-arsenal-2021/
+
 #### Defcon 29 Adversary Village : PurpleSharp - Automated Adversary Simulation
 
 - Video: https://www.youtube.com/watch?v=yi1epKf0lcM
