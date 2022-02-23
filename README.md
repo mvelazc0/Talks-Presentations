@@ -2,9 +2,10 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops
 
-#### BSides Panama 2022 : Simulando Adversarios con PurpleSharp
+#### BSides Panama 2022 : Simulando Adversarios con PurpleSharp (Spanish)
 
 - Slides: https://www.slideshare.net/mvelazco/bsides-panama-2022/
+- Video: https://www.youtube.com/watch?v=SqGAzhG9ynM
 
 #### BlackHat Arsenal 2021 : PurpleSharp - Active Directory Attack Simulations
 
