@@ -81,6 +81,10 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 - Slides: https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20workshops/DEF%20CON%2026%20-%20Workshop-Walter-Cuestas-and-Mauricio-Velazco-Lateral-Movement-101-2018-Update.pdf
 
+#### BSides New York (2018) - Hunting for Suspicious User Behavior
+
+- Slides: https://www.slideshare.net/mvelazco/bsides-nyc-2018-hunting-for-lateral-movement
+
 #### Derbycon 7.0 (2017) - Hunting Lateral Movement for Fun and Profit 
 
 - Video: https://www.youtube.com/watch?v=hVTkkkM9XDg
