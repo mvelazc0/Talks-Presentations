@@ -2,7 +2,7 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops
 
-#### Defcon 30 : Mauricio Velazco, Olaf Hartong - The Purple Malware Development Approach
+#### Defcon 30 : The Purple Malware Development Approach
 
 - Link: https://forum.defcon.org/node/241800
 
