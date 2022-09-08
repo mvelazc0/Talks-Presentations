@@ -2,6 +2,14 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops
 
+#### Defcon 30 : Mauricio Velazco, Olaf Hartong - The Purple Malware Development Approach
+
+- Link: https://forum.defcon.org/node/241800
+
+#### X33fcon 2022 : Custom Malware Development: The Purple Approach
+
+- Link: https://www.x33fcon.com/#!s/mauriciov.md
+
 #### BSides Panama 2022 : Simulando Adversarios con PurpleSharp (Spanish)
 
 - Slides: https://www.slideshare.net/mvelazco/bsides-panama-2022/
