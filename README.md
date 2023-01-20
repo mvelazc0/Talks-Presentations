@@ -4,39 +4,39 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinasr
 
-#### SANS Webcast : Purple Teaming to Enhance Detection Engineering
+#### SANS Webcast January 2023 : Purple Teaming to Enhance Detection Engineering
 
 - Link: https://www.sans.org/webcasts/purple-teaming-to-enhance-detection-engineering/
 
-#### Defcon 30 : The Purple Malware Development Approach
+#### Defcon 30 August 2022: The Purple Malware Development Approach
 
 - Link: https://forum.defcon.org/node/241800
 
-#### X33fcon 2022 : Custom Malware Development: The Purple Approach
+#### X33fcon June 2022  : Custom Malware Development: The Purple Approach
 
 - Link: https://www.x33fcon.com/#!s/mauriciov.md
 
-#### BSides Panama 2022 : Simulando Adversarios con PurpleSharp (Spanish)
+#### BSides Panama January 2022 : Simulando Adversarios con PurpleSharp (Spanish)
 
 - Slides: https://www.slideshare.net/mvelazco/bsides-panama-2022/
 - Video: https://www.youtube.com/watch?v=SqGAzhG9ynM
 
-#### BlackHat Arsenal 2021 : PurpleSharp - Active Directory Attack Simulations
+#### BlackHat Arsenal August 2021 : PurpleSharp - Active Directory Attack Simulations
 
 - Video: https://www.youtube.com/watch?v=jvpVgJQPoXw
 - Slides: https://www.slideshare.net/mvelazco/blackhat-arsenal-2021/
 
-#### Defcon 29 Adversary Village : PurpleSharp - Automated Adversary Simulation
+#### Defcon 29 Adversary Village August 2021 : PurpleSharp - Automated Adversary Simulation
 
 - Video: https://www.youtube.com/watch?v=yi1epKf0lcM
 - Slides: https://www.slideshare.net/mvelazco/defcon-29-adversary-village/
 
-#### Security Weekly August 2021 Interview : Automated Adversary Simulation
+#### Security Weekly August August 2021 : Automated Adversary Simulation
 
 - Video: https://www.youtube.com/watch?v=jCWQK2NPffA
 - Blog: https://securityweekly.com/shows/purplesharp-automated-adversary-simulation-mauricio-velazco-bh21-2/
 
-#### SANS Purple Team Summit 2021 : Active Directory Purple Team Playbooks
+#### SANS Purple Team Summit May 2021 : Active Directory Purple Team Playbooks
 
 - Video: https://www.youtube.com/watch?v=9UpPo20c1w8
 - Slides: https://www.slideshare.net/mvelazco/purple-team-summit-2021/
