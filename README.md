@@ -1,6 +1,12 @@
+
+
 # Talks and Presentations
 
-Resource links (video, slides & code) for my conference talks | presentations | workshops
+Resource links (video, slides & code) for my conference talks | presentations | workshops | webinasr
+
+#### SANS Webcast : Purple Teaming to Enhance Detection Engineering
+
+- Link: https://www.sans.org/webcasts/purple-teaming-to-enhance-detection-engineering/
 
 #### Defcon 30 : The Purple Malware Development Approach
 
