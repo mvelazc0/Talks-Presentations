@@ -46,17 +46,17 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 - Video: https://www.youtube.com/watch?v=HHy00gGFZpI
 
-#### BlackHat 2020 Arsenal - PurpleSharp: Adversasry Simulation for the Blue Team
+#### BlackHat Arsenal August 2020 - PurpleSharp: Adversasry Simulation for the Blue Team
 
 - Video: https://www.youtube.com/watch?v=yaeNwdElYaQ
 - Slides: https://www.slideshare.net/mvelazco/blackhat-2020-arsenal
 
-#### Blue Team Village at DEF CON 28 - Purple On My Mind: Cost Effective Automated Adversary Simulation
+#### Blue Team Village at DEFCON 28 August 2020 - Purple On My Mind: Cost Effective Automated Adversary Simulation
 
 - Video: https://www.youtube.com/watch?v=XUxMj-eR0A0&feature=youtu.be
 - Slides: https://www.slideshare.net/mvelazco/purple-on-my-mind-cost-effective-automated-adversary-simulation-olaf-hartong-mauricio-velazco
 
-#### BSides Latin America 2019 - Blue Team: Cazando y Detectando Amenazas
+#### BSides Latin America September 2019 - Blue Team: Cazando y Detectando Amenazas
 
 - Slides: https://www.slideshare.net/mvelazco/bsides-latam-2019
 
@@ -66,13 +66,13 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 - Slides: https://www.slideshare.net/mvelazco/attackcon-20-2019
 - Code: https://github.com/mvelazc0/attack2jira
 
-#### Derbycon 9.0 (2019) - I sim(ulate), therefore i catch: enhancing detection engineering with adversary simulation
+#### Derbycon 9.0 September 2019 - I sim(ulate), therefore i catch: enhancing detection engineering with adversary simulation
 
 - Video: https://www.youtube.com/watch?v=7TVp4g4hkpg
 - Slides: https://www.slideshare.net/mvelazco/derbycon-2019
 - Code: https://github.com/mvelazc0/PurpleSharp
 
-#### Defcon 27 (2019) - Writing custom backdoor payloads using C#
+#### Defcon 27 August 2019 - Writing custom backdoor payloads using C#
 
 - Slides: https://www.slideshare.net/mvelazco/defcon-27
 - Code: https://github.com/mvelazc0/defcon27_csharp_workshop
