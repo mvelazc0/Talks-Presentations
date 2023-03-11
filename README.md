@@ -2,7 +2,7 @@
 
 # Talks and Presentations
 
-Resource links (video, slides & code) for my conference talks | presentations | workshops | webinasr
+Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
 #### SANS Webcast January 2023 : Purple Teaming to Enhance Detection Engineering
 
