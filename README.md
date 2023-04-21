@@ -4,6 +4,10 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
+#### XPOSURE 2023 : Detection-As-Code : Test Driven Development
+
+- Video: https://www.youtube.com/watch?v=I8nECGMGENk
+
 #### SANS Webcast January 2023 : Purple Teaming to Enhance Detection Engineering
 
 - Link: https://www.sans.org/webcasts/purple-teaming-to-enhance-detection-engineering/
