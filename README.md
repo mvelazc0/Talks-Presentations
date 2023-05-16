@@ -4,6 +4,10 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
+#### BlackHat Arsenal August 2021 : PurpleSharp - Active Directory Attack Simulations
+
+- Slides: [https://www.slideshare.net/mvelazco/blackhat-arsenal-2021/](https://www.slideshare.net/mvelazco/purplesharp-blackhat-arsenal-asia)
+
 #### XPOSURE 2023 : Detection-As-Code : Test Driven Development
 
 - Video: https://www.youtube.com/watch?v=I8nECGMGENk
