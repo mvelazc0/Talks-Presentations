@@ -4,7 +4,7 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
-#### BlackHat Arsenal August 2021 : PurpleSharp - Active Directory Attack Simulations
+#### BlackHat Arsenal Asia May 2023 : PurpleSharp Automated Adversary Simulation
 
 - Slides: [https://www.slideshare.net/mvelazco/blackhat-arsenal-2021/](https://www.slideshare.net/mvelazco/purplesharp-blackhat-arsenal-asia)
 
