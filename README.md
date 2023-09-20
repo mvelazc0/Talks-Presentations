@@ -1,8 +1,12 @@
 
 
-# Talks and Presentations
+# Talks, Presentations and Workshops
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
+
+#### Brucon 2023 : The Purple Malware Development Workshop
+
+- Link: https://brucon0x0f.sched.com/event/1Nhw0
 
 #### BlackHat Arsenal Asia May 2023 : PurpleSharp Automated Adversary Simulation
 
