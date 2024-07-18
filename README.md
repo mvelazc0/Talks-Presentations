@@ -4,6 +4,16 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
+#### Conf 2024 : Cloud Identity Crisis: Defending Identities in an Okta Environment
+
+- Video: https://conf.splunk.com/files/2024/recordings/SEC1648B.mp4
+- Slides: https://conf.splunk.com/files/2024/slides/SEC1648B.pdf
+
+#### Conf 2024 : Hunting M365 Invaders: Tactical Insights for M365 Threat Detection
+
+- Video: https://conf.splunk.com/files/2024/recordings/SEC1470B.mp4
+- Slides: https://conf.splunk.com/files/2024/slides/SEC1470B.pdf
+
 #### Brucon 2023 : The Purple Malware Development Workshop
 
 - Link: https://brucon0x0f.sched.com/event/1Nhw0
