@@ -18,6 +18,12 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 - Link: https://brucon0x0f.sched.com/event/1Nhw0
 
+#### Conf 2023 : Securing the Cloudscape: Resilient Multi-Cloud Detection Engineering
+
+- Video: https://conf.splunk.com/files/2023/recordings/SEC1225B.mp4
+- Slides: https://conf.splunk.com/files/2023/slides/SEC1225B.pdf
+
+
 #### BlackHat Arsenal Asia May 2023 : PurpleSharp Automated Adversary Simulation
 
 - Slides: [https://www.slideshare.net/mvelazco/blackhat-arsenal-2021/](https://www.slideshare.net/mvelazco/purplesharp-blackhat-arsenal-asia)
