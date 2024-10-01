@@ -4,6 +4,11 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
+#### BlackHat Arsenal USA 2024 : Simulating and Exploring Entra ID Attack Paths
+
+- Video: https://www.youtube.com/watch?v=IzurUrOsvsQ
+- Slides: https://www.slideshare.net/slideshow/blackhat-arsenal-usa-2024-simulating-and-exploring-entra-id-attack-paths/272129626
+
 #### Conf 2024 : Cloud Identity Crisis: Defending Identities in an Okta Environment
 
 - Video: https://conf.splunk.com/files/2024/recordings/SEC1648B.mp4
@@ -22,7 +27,6 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 - Video: https://conf.splunk.com/files/2023/recordings/SEC1225B.mp4
 - Slides: https://conf.splunk.com/files/2023/slides/SEC1225B.pdf
-
 
 #### BlackHat Arsenal Asia May 2023 : PurpleSharp Automated Adversary Simulation
 
