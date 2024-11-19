@@ -9,12 +9,12 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 - Video: https://www.youtube.com/watch?v=IzurUrOsvsQ
 - Slides: https://www.slideshare.net/slideshow/blackhat-arsenal-usa-2024-simulating-and-exploring-entra-id-attack-paths/272129626
 
-#### Conf 2024 : Cloud Identity Crisis: Defending Identities in an Okta Environment
+#### Splunk Conf 2024 : Cloud Identity Crisis: Defending Identities in an Okta Environment
 
 - Video: https://conf.splunk.com/files/2024/recordings/SEC1648B.mp4
 - Slides: https://conf.splunk.com/files/2024/slides/SEC1648B.pdf
 
-#### Conf 2024 : Hunting M365 Invaders: Tactical Insights for M365 Threat Detection
+#### Splunk Conf 2024 : Hunting M365 Invaders: Tactical Insights for M365 Threat Detection
 
 - Video: https://conf.splunk.com/files/2024/recordings/SEC1470B.mp4
 - Slides: https://conf.splunk.com/files/2024/slides/SEC1470B.pdf
@@ -23,7 +23,7 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 - Link: https://brucon0x0f.sched.com/event/1Nhw0
 
-#### Conf 2023 : Securing the Cloudscape: Resilient Multi-Cloud Detection Engineering
+#### Splunk Conf 2023 : Securing the Cloudscape: Resilient Multi-Cloud Detection Engineering
 
 - Video: https://conf.splunk.com/files/2023/recordings/SEC1225B.mp4
 - Slides: https://conf.splunk.com/files/2023/slides/SEC1225B.pdf
