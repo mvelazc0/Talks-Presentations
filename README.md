@@ -5,7 +5,7 @@
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 #### BlackHat Arsenal Europe 2024 :  Simulating Adversary Techniques in M365 & Azure
 
-- Video: TBD
+- Video: https://www.youtube.com/watch?v=6VVX8n0bbl4
 - Slides: https://www.slideshare.net/slideshow/blackhat-europe-arsenal-2024-msinvader-simulating-adversary-techniques-in-m365-azure/274237005
 
 #### BlackHat Arsenal USA 2024 : Simulating and Exploring Entra ID Attack Paths
