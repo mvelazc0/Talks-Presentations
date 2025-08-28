@@ -3,6 +3,12 @@
 # Talks, Presentations and Workshops
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
+
+#### BlackHat Arsenal US 2025 : msInvader: Automating Adversary Simulation in M365 and Azure
+
+- Video: https://www.youtube.com/watch?v=kHqa6UwFris
+- Slides: 
+
 #### BlackHat Arsenal Europe 2024 :  Simulating Adversary Techniques in M365 & Azure
 
 - Video: https://www.youtube.com/watch?v=6VVX8n0bbl4
