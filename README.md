@@ -4,6 +4,11 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
+#### BSides NYC 2025 : Inside Cloud Attack Paths: End-to-End Adversary Simulation
+
+- Video: https://www.slideshare.net/slideshow/bsides-nyc-2025-inside-cloud-attack-paths-end-to-end-adversary-simulation/283867461
+- Slides: 
+
 #### BlackHat Arsenal US 2025 : msInvader: Automating Adversary Simulation in M365 and Azure
 
 - Video: https://www.youtube.com/watch?v=kHqa6UwFris
