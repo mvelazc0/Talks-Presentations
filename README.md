@@ -12,7 +12,7 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 #### BlackHat Arsenal US 2025 : msInvader: Automating Adversary Simulation in M365 and Azure
 
 - Video: https://www.youtube.com/watch?v=kHqa6UwFris
-- Slides: 
+- Slides: https://www.slideshare.net/slideshow/blackhat-arsenal-2025-msinvader-automating-adversary-simulation-in-m365-and-azure/283878482
 
 #### BlackHat Arsenal Europe 2024 :  Simulating Adversary Techniques in M365 & Azure
 
