@@ -54,7 +54,7 @@ Resource links (video, slides & code) for my conference talks | presentations | 
 
 #### SANS Webcast January 2023 : Purple Teaming to Enhance Detection Engineering
 
-- Link: https://www.sans.org/webcasts/purple-teaming-to-enhance-detection-engineering/
+- Link: https://splunkvideo.hubs.vidyard.com/watch/oV4SDT3tQRMny37C6rzF9x?
 
 #### Defcon 30 August 2022: The Purple Malware Development Approach
 
