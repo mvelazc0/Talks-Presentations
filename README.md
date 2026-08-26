@@ -4,6 +4,11 @@
 
 Resource links (video, slides & code) for my conference talks | presentations | workshops | webinars
 
+#### BlackHat Arsenal US 2026 : BadZure: Building Cloud Attack Labs with LLMs
+
+- Video: https://www.youtube.com/watch?v=0cYHvgz32PE
+- Slides: https://www.slideshare.net/slideshow/blackhat-arsenal-2026-badzure-building-cloud-attack-labs-with-llms/289512725
+
 #### BSides NYC 2025 : Inside Cloud Attack Paths: End-to-End Adversary Simulation
 
 - Video: https://www.youtube.com/watch?v=vi7YNZH36ik
